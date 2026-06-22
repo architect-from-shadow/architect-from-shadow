@@ -13,29 +13,35 @@
   <img src="https://img.shields.io/badge/product-thinking-101827?style=for-the-badge&labelColor=090D14&color=E7EEF8" alt="Product thinking" />
 </p>
 
+<h3 align="center">AI workflows, native apps, bots, databases, and automation with a product-first mindset.</h3>
+
+<p align="center">
+  <sub><strong>clean structure</strong> / useful interfaces / reliable systems / polished delivery</sub>
+</p>
+
 <table>
   <tr>
     <td width="58%">
-      <h3>What I build</h3>
+      <h3>Build Surface</h3>
       <p>
-        I work on practical digital systems: AI-assisted workflows, automation,
-        Swift apps for Apple platforms, Telegram bots, Windows utilities,
-        database-backed tools, and product ideas that turn messy tasks into clean execution.
+        <strong>I build practical digital systems</strong> across
+        <code>AI workflows</code>, <code>Swift apps</code>, <code>Telegram bots</code>,
+        <code>Windows utilities</code>, and <code>database-backed tools</code>.
       </p>
       <p>
-        My focus is not just writing code. I care about the full path from idea
-        to usable result: structure, interface, logic, iteration, and polish.
+        The goal is simple: turn unclear tasks into products that feel structured,
+        usable, and finished.
       </p>
     </td>
     <td width="42%">
-      <h3>Current direction</h3>
+      <h3>Current Direction</h3>
       <ul>
-        <li>AI tools and prompt-driven workflows</li>
-        <li>Swift development for iOS and macOS</li>
-        <li>Telegram bots, integrations, and automation flows</li>
-        <li>Windows tools, web apps, dashboards, and useful interfaces</li>
-        <li>Databases, storage, and data-backed product logic</li>
-        <li>Portfolio projects that look finished, not half-made</li>
+        <li><strong>AI systems</strong> and prompt-driven workflows</li>
+        <li><strong>Swift</strong> development for iOS and macOS</li>
+        <li><strong>Telegram</strong> bots, integrations, and automation flows</li>
+        <li><strong>Windows</strong> tools, dashboards, and useful interfaces</li>
+        <li><strong>Databases</strong>, storage, and product logic</li>
+        <li><strong>Portfolio work</strong> that looks finished, not half-made</li>
       </ul>
     </td>
   </tr>
@@ -43,63 +49,76 @@
 
 <h2 align="center">Skill Map</h2>
 
+<p align="center">
+  <sub>the stack I use to move from idea to working product</sub>
+</p>
+
 <table>
   <tr>
     <td align="center" width="25%">
-      <strong>AI + Prompts</strong><br />
+      <code>AI + Prompts</code><br />
       <sub>workflow design, task decomposition, AI-assisted building</sub>
     </td>
     <td align="center" width="25%">
-      <strong>Swift + Apple</strong><br />
+      <code>Swift + Apple</code><br />
       <sub>iOS, macOS, app interfaces, native product work</sub>
     </td>
     <td align="center" width="25%">
-      <strong>Telegram</strong><br />
+      <code>Telegram</code><br />
       <sub>bots, integrations, notifications, chat workflows</sub>
     </td>
     <td align="center" width="25%">
-      <strong>Windows</strong><br />
+      <code>Windows</code><br />
       <sub>desktop tools, setup flows, cross-platform thinking</sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="25%">
-      <strong>Automation</strong><br />
+      <code>Automation</code><br />
       <sub>scripts, repeatable systems, process cleanup</sub>
     </td>
     <td align="center" width="25%">
-      <strong>Frontend</strong><br />
+      <code>Frontend</code><br />
       <sub>interfaces, layout, responsive polish, UX flow</sub>
     </td>
     <td align="center" width="25%">
-      <strong>Databases</strong><br />
+      <code>Databases</code><br />
       <sub>schemas, storage, queries, product data models</sub>
     </td>
     <td align="center" width="25%">
-      <strong>Product</strong><br />
+      <code>Product</code><br />
       <sub>ideas, positioning, feature thinking, launch shape</sub>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github,git,swift,apple,windows,js,ts,html,css,nodejs,react,python,postgres,mysql,sqlite,vscode&theme=dark" alt="Core tools and technologies" />
+  <img src="https://skillicons.dev/icons?i=github,git,swift,apple,windows,js,ts,html&theme=dark" alt="Core tools row one" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=css,nodejs,react,python,postgres,mysql,sqlite,vscode&theme=dark" alt="Core tools row two" />
 </p>
 
 <h2 align="center">How I Think</h2>
 
+<p align="center">
+  <sub>clarity first, then execution, then polish</sub>
+</p>
+
 <table>
   <tr>
-    <td width="33%">
-      <strong>01. Find the structure</strong><br />
+    <td align="center" width="33%">
+      <code>01</code><br />
+      <strong>Find the structure</strong><br />
       <sub>Before building, I try to understand what the thing really needs to become.</sub>
     </td>
-    <td width="33%">
-      <strong>02. Make it usable</strong><br />
+    <td align="center" width="33%">
+      <code>02</code><br />
+      <strong>Make it usable</strong><br />
       <sub>Good work should be clear, practical, and easy to continue improving.</sub>
     </td>
-    <td width="33%">
-      <strong>03. Add the polish</strong><br />
+    <td align="center" width="33%">
+      <code>03</code><br />
+      <strong>Add the polish</strong><br />
       <sub>The final 20% matters: naming, layout, flow, and the feeling of quality.</sub>
     </td>
   </tr>
@@ -108,5 +127,6 @@
 <br />
 
 <p align="center">
-  <strong>building from shadow into structure</strong>
+  <sub>from shadow</sub><br />
+  <strong>into structure</strong>
 </p>
