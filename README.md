@@ -3,39 +3,84 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/architect-from-shadow?tab=repositories">
-    <img src="https://img.shields.io/badge/repositories-portfolio%20index-101827?style=for-the-badge&labelColor=090D14" alt="Repositories" />
-  </a>
-  <img src="https://img.shields.io/badge/focus-AI%20tools%20%2F%20automation-66E3FF?style=for-the-badge&labelColor=090D14&color=66E3FF" alt="AI tools and automation" />
-  <img src="https://img.shields.io/badge/mode-build%20%2B%20learn-F5B86B?style=for-the-badge&labelColor=090D14&color=F5B86B" alt="Build and learn" />
+  <img src="https://img.shields.io/badge/AI--assisted-development-101827?style=for-the-badge&labelColor=090D14&color=66E3FF" alt="AI-assisted development" />
+  <img src="https://img.shields.io/badge/automation-systems-101827?style=for-the-badge&labelColor=090D14&color=F5B86B" alt="Automation systems" />
+  <img src="https://img.shields.io/badge/product-thinking-101827?style=for-the-badge&labelColor=090D14&color=E7EEF8" alt="Product thinking" />
 </p>
 
-## Profile
+<table>
+  <tr>
+    <td width="58%">
+      <h3>What I build</h3>
+      <p>
+        I work on practical digital systems: AI-assisted workflows, automation,
+        small product ideas, and tools that turn messy tasks into clean execution.
+      </p>
+      <p>
+        My focus is not just writing code. I care about the full path from idea
+        to usable result: structure, interface, logic, iteration, and polish.
+      </p>
+    </td>
+    <td width="42%">
+      <h3>Current direction</h3>
+      <ul>
+        <li>AI tools and prompt-driven workflows</li>
+        <li>Automation for repeated manual work</li>
+        <li>Web apps, dashboards, and useful interfaces</li>
+        <li>Portfolio projects that look finished, not half-made</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-I'm Oleksandr Kolodii, building under the name `architect-from-shadow`.
+<h2 align="center">Skill Map</h2>
 
-I like the part of creation where the idea is still messy: finding the shape of the problem, filtering out noise, and turning it into something people can actually use. This profile is my public workshop: projects, experiments, notes, and practical systems as they become real.
-
-## Portfolio Direction
-
-| Area | What I am building toward |
-| --- | --- |
-| AI tools | Workflows that make thinking, writing, and building faster |
-| Automation | Small systems that remove repeated manual work |
-| Product thinking | Clear interfaces, useful features, and practical execution |
-| Software architecture | Codebases that stay understandable as they grow |
-
-## Operating Principles
-
-- Clarity before complexity
-- Structure before scale
-- Taste without noise
-- Shipping with intention
-
-## Current Signal
-
-I am shaping this GitHub into a portfolio that shows the work directly: useful tools, focused experiments, and projects with enough polish to stand on their own.
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <strong>AI + Prompts</strong><br />
+      <sub>workflow design, task decomposition, AI-assisted building</sub>
+    </td>
+    <td align="center" width="25%">
+      <strong>Automation</strong><br />
+      <sub>scripts, repeatable systems, process cleanup</sub>
+    </td>
+    <td align="center" width="25%">
+      <strong>Frontend</strong><br />
+      <sub>interfaces, layout, responsive polish, UX flow</sub>
+    </td>
+    <td align="center" width="25%">
+      <strong>Product</strong><br />
+      <sub>ideas, positioning, feature thinking, launch shape</sub>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <sub><strong>clarity -> structure -> execution</strong></sub>
+  <img src="https://skillicons.dev/icons?i=github,git,js,ts,html,css,nodejs,react,python,vscode&theme=dark" alt="Core tools and technologies" />
+</p>
+
+<h2 align="center">How I Think</h2>
+
+<table>
+  <tr>
+    <td width="33%">
+      <strong>01. Find the structure</strong><br />
+      <sub>Before building, I try to understand what the thing really needs to become.</sub>
+    </td>
+    <td width="33%">
+      <strong>02. Make it usable</strong><br />
+      <sub>Good work should be clear, practical, and easy to continue improving.</sub>
+    </td>
+    <td width="33%">
+      <strong>03. Add the polish</strong><br />
+      <sub>The final 20% matters: naming, layout, flow, and the feeling of quality.</sub>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<p align="center">
+  <strong>building from shadow into structure</strong>
 </p>
