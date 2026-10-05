@@ -2,131 +2,57 @@
   <img src="./assets/profile-banner.svg" alt="Oleksandr Kolodii - architect-from-shadow" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AI--assisted-development-101827?style=for-the-badge&labelColor=090D14&color=66E3FF" alt="AI-assisted development" />
-  <img src="https://img.shields.io/badge/Swift-iOS%20%2F%20macOS-101827?style=for-the-badge&logo=swift&logoColor=white&labelColor=090D14&color=F05138" alt="Swift iOS and macOS" />
-  <img src="https://img.shields.io/badge/Telegram-bots%20%2F%20integrations-101827?style=for-the-badge&logo=telegram&logoColor=white&labelColor=090D14&color=26A5E4" alt="Telegram bots and integrations" />
-  <br />
-  <img src="https://img.shields.io/badge/automation-systems-101827?style=for-the-badge&labelColor=090D14&color=F5B86B" alt="Automation systems" />
-  <img src="https://img.shields.io/badge/Windows-tools-101827?style=for-the-badge&logo=windows11&logoColor=white&labelColor=090D14&color=0078D4" alt="Windows tools" />
-  <img src="https://img.shields.io/badge/databases-data%20systems-101827?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=090D14&color=4169E1" alt="Databases and data systems" />
-  <img src="https://img.shields.io/badge/product-thinking-101827?style=for-the-badge&labelColor=090D14&color=E7EEF8" alt="Product thinking" />
-</p>
-
-<h3 align="center">AI workflows, native apps, bots, databases, and automation with a product-first mindset.</h3>
+<h1 align="center">Oleksandr Kolodii</h1>
+<p align="center"><b>Full-Stack Developer · Next.js, Supabase · AI Agents & Automation</b><br>
+Dublin, Ireland · Open to freelance work</p>
 
 <p align="center">
-  <sub><strong>clean structure</strong> / useful interfaces / reliable systems / polished delivery</sub>
+  <a href="https://theory-academy.com">theory-academy.com</a> ·
+  <a href="https://www.upwork.com/freelancers/~01a8da81399f0ee8a0">Upwork</a> ·
+  <a href="https://shadow-os.com">shadow-os.com</a>
 </p>
 
-<table>
-  <tr>
-    <td width="58%">
-      <h3>Build Surface</h3>
-      <p>
-        <strong>I build practical digital systems</strong> across
-        <code>AI workflows</code>, <code>Swift apps</code>, <code>Telegram bots</code>,
-        <code>Windows utilities</code>, and <code>database-backed tools</code>.
-      </p>
-      <p>
-        The goal is simple: turn unclear tasks into products that feel structured,
-        usable, and finished.
-      </p>
-    </td>
-    <td width="42%">
-      <h3>Current Direction</h3>
-      <ul>
-        <li><strong>AI systems</strong> and prompt-driven workflows</li>
-        <li><strong>Swift</strong> development for iOS and macOS</li>
-        <li><strong>Telegram</strong> bots, integrations, and automation flows</li>
-        <li><strong>Windows</strong> tools, dashboards, and useful interfaces</li>
-        <li><strong>Databases</strong>, storage, and product logic</li>
-        <li><strong>Portfolio work</strong> that looks finished, not half-made</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+---
 
-<h2 align="center">Skill Map</h2>
+I build web products and AI automations that run in production. I take a project from an unclear idea to a deployed app: the UI, the database, payments, integrations and the launch.
 
-<p align="center">
-  <sub>the stack I use to move from idea to working product</sub>
-</p>
+## What I work on
 
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <code>AI + Prompts</code><br />
-      <sub>workflow design, task decomposition, AI-assisted building</sub>
-    </td>
-    <td align="center" width="25%">
-      <code>Swift + Apple</code><br />
-      <sub>iOS, macOS, app interfaces, native product work</sub>
-    </td>
-    <td align="center" width="25%">
-      <code>Telegram</code><br />
-      <sub>bots, integrations, notifications, chat workflows</sub>
-    </td>
-    <td align="center" width="25%">
-      <code>Windows</code><br />
-      <sub>desktop tools, setup flows, cross-platform thinking</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="25%">
-      <code>Automation</code><br />
-      <sub>scripts, repeatable systems, process cleanup</sub>
-    </td>
-    <td align="center" width="25%">
-      <code>Frontend</code><br />
-      <sub>interfaces, layout, responsive polish, UX flow</sub>
-    </td>
-    <td align="center" width="25%">
-      <code>Databases</code><br />
-      <sub>schemas, storage, queries, product data models</sub>
-    </td>
-    <td align="center" width="25%">
-      <code>Product</code><br />
-      <sub>ideas, positioning, feature thinking, launch shape</sub>
-    </td>
-  </tr>
-</table>
+- **Web apps and SaaS.** Next.js, React, TypeScript, Supabase / PostgreSQL, auth, Stripe subscriptions, Vercel
+- **AI agents and automation.** OpenAI / Claude APIs, n8n, Python, scheduled agents, approval flows in Telegram
+- **Bots and integrations.** Telegram bots, webhooks, REST APIs, email, Google Analytics
+- **Native apps (in progress).** SwiftUI for iOS and macOS
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=github,git,swift,apple,windows,js,ts,html&theme=dark" alt="Core tools row one" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=css,nodejs,react,python,postgres,mysql,sqlite,vscode&theme=dark" alt="Core tools row two" />
-</p>
+## Projects
 
-<h2 align="center">How I Think</h2>
+| Project | What it is | Stack |
+|---|---|---|
+| [Theory Academy](https://theory-academy.com) | Live driving theory test prep platform for Ireland. I designed, built and run it alone. | Next.js, TypeScript, Supabase, Stripe, Vercel |
+| Autopilot | AI agents that handle parts of a business (analytics reports, content planning, support inbox) plus a control center to steer them | Python, TypeScript, LLM APIs, n8n, Telegram |
+| Daybook Collector | Phone-first PWA that collects daily data for a food business | TypeScript, PWA |
+| [Shadow](https://shadow-os.com) | Local-first personal assistant: agent-driven iOS app with a Swift server | SwiftUI, Swift / Hummingbird |
 
-<p align="center">
-  <sub>clarity first, then execution, then polish</sub>
-</p>
+## How I work
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <code>01</code><br />
-      <strong>Find the structure</strong><br />
-      <sub>Before building, I try to understand what the thing really needs to become.</sub>
-    </td>
-    <td align="center" width="33%">
-      <code>02</code><br />
-      <strong>Make it usable</strong><br />
-      <sub>Good work should be clear, practical, and easy to continue improving.</sub>
-    </td>
-    <td align="center" width="33%">
-      <code>03</code><br />
-      <strong>Add the polish</strong><br />
-      <sub>The final 20% matters: naming, layout, flow, and the feeling of quality.</sub>
-    </td>
-  </tr>
-</table>
+1. **Understand first.** Questions, then a short plan with scope and price.
+2. **Ship early.** A working demo as soon as possible, updates every 1–2 days.
+3. **Leave it clean.** Readable code in your repo and short docs at the end.
 
-<br />
+## Stack
 
-<p align="center">
-  <sub>from shadow</sub><br />
-  <strong>into structure</strong>
-</p>
+![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?logo=stripe&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?logo=n8n&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?logo=openai&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram_Bots-26A5E4?logo=telegram&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white)
+
+---
+
+<p align="center">Need an MVP built, a Next.js app fixed, or a process automated with AI? <a href="https://www.upwork.com/freelancers/~01a8da81399f0ee8a0">Message me on Upwork</a>.</p>
